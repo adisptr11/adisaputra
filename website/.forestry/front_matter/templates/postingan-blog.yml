@@ -26,3 +26,5 @@ fields:
 - type: text
   name: toc
   label: toc
+pages:
+- website/content/blog/bio-data-saya.md
