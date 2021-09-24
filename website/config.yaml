@@ -33,26 +33,26 @@ params:
   profile_image: "/images/profile.png"
   name: "Selamat datang di profil saya"
   namecolor: ffc107
-  profession: "Profession"
+  profession: "ADI SAPUTRA"
   github: "https://github.com"
   linkedin: "https://linkedin.com"
   twitter: "https://twitter.com/"
-  instagram: "https://instagram.com/"
-  facebook: "https://facebook.com"
+  instagram: "_adysptr"
+  facebook: "Ady saputra"
 
-  # About
+  # Hai
   disable_about: false
   descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
   descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
   skills:
-    - name: CSS
-      percentage: 90
-    - name: Django
+    - name: Design grafis
       percentage: 85
-    - name: Hugo
-      percentage: 80
-    - name: React JS
+    - name: menggambar
       percentage: 70
+    - name: bermain gitar
+      percentage: 50
+    - name: Fotography
+      percentage: 90
 
   # Experience
   disable_experience: false
