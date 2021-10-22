@@ -43,8 +43,7 @@ params:
   # Hai
   disable_about: false
   descripe_l1_person: "Hallo, selamat datang di Bio data saya.
-Apa Kabar kalian, semoga baik baik saja ya.
-Ada pepatah mengatakan Tak kenal maka tak sayang, maka dari itu kenalan dulu bari saling sayang iyakk iyakk iyakk canda sayang.
+Apa Kabar kalian, semoga baik baik saja ya. Ada pepatah mengatakan Tak kenal maka tak sayang, maka dari itu kenalan dulu bari saling sayang iyakk iyakk iyakk canda sayang."
   descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
   skills:
     - name: Design grafis
