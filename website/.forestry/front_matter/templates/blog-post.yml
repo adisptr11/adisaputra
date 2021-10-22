@@ -1,4 +1,46 @@
 ---
 label: blog post
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+  hidden: false
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: author
+  type: text
+  config:
+    required: false
+  label: author
+- name: tags
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: tags
+- name: bg_image
+  type: text
+  config:
+    required: false
+  label: bg_image
+- name: description
+  type: text
+  config:
+    required: false
+  label: description
+- name: toc
+  type: text
+  config:
+    required: false
+  label: toc
