@@ -1,7 +1,7 @@
 +++
 author = "adi saputra"
 bg_image = ""
-date = 2021-10-21T17:00:00Z
+date = 2021-10-22T02:26:00Z
 description = ""
 tags = []
 title = "tugas pkk"
