@@ -44,3 +44,5 @@ fields:
   config:
     required: false
   label: toc
+pages:
+- website/content/blog/tugas-pkk.md
